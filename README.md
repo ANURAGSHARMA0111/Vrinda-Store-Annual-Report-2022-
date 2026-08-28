@@ -118,3 +118,5 @@ Vrinda-Store-Annual-Report/
 ├── Vrinda Store Annual Report 2022.xlsx
 ├── dashboard.png
 └── README.md
+
+.Dashboard screenshot.  https://github.com/ANURAGSHARMA0111/Vrinda-Store-Annual-Report-2022-/commit/947c7bd3b168e450d40466fc613bdfedc52b8fec
